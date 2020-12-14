@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guess word</string>
+    <string name="score">Score: 0</string>
+    <string name="question">Question: </string>
+    <string name="answer">Answer:</string>
+    <string name="hint">Hint:</string>
+    <string name="inputHint">Input answer here</string>
+    <string name="check">Check</string>
+</resources>
